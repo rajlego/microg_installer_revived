@@ -16,8 +16,11 @@ Currently, GmsCore 0.3.1 (including Companion, previously known as FakeStore), G
 
 ## Installation
 **Again, if you have Google services currently installed, DO NOT INSTALL THIS MODULE.**
-- Choose an solution for [Signature spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) (Note: If your ROM does not support signature spoofing, I recommened [whew-inc's FakeGApps fork](https://github.com/whew-inc/FakeGApps/releases))
-- Install the module
+- Install [Magisk](https://topjohnwu.github.io/Magisk/install.html)
+- Choose an solution for [Signature spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) (Note: If your ROM does not support signature spoofing, I recommened [whew-inc's FakeGApps fork](https://github.com/whew-inc/FakeGApps/releases)). To confirm that your ROM has signature spoofing enabled, you can use this app: https://f-droid.org/en/packages/lanchon.sigspoof.checker/
+- Download the zip of this module from [latest releases](https://github.com/nift4/microg_installer_revived/latest/releases) to your device
+- Open the Magisk app and click modules in the bottom right. Click install from storage and install the zip you downloaded
+- Done!
 
 ## How do I get the real Play Store?
 
